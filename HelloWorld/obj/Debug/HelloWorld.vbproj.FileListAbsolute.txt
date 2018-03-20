@@ -1,0 +1,11 @@
+C:\Users\DLockhart\Source\Repos\TestRepository\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\DLockhart\Source\Repos\TestRepository\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\DLockhart\Source\Repos\TestRepository\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\DLockhart\Source\Repos\TestRepository\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\DLockhart\Source\Repos\TestRepository\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+C:\Users\DLockhart\Source\Repos\TestRepository\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\DLockhart\Source\Repos\TestRepository\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.cache
+C:\Users\DLockhart\Source\Repos\TestRepository\HelloWorld\obj\Debug\HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\DLockhart\Source\Repos\TestRepository\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\DLockhart\Source\Repos\TestRepository\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\DLockhart\Source\Repos\TestRepository\HelloWorld\obj\Debug\HelloWorld.pdb
